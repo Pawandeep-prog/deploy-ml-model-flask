@@ -2,6 +2,8 @@ Flask==1.1.1
 gunicorn==19.9.0
 numpy>=1.9.2
 scikit-learn>=0.18
-pandas>=0.19
+pandas==1.0.3
 pickleshare == 0.7.5
 MarkupSafe==1.1.1
+Jinja2==2.11.1
+scipy==1.4.1
