@@ -4,7 +4,9 @@ Irises come in many colors such as blue and purple, white and yellow, pink and o
 Since Iris is the Greek goddess for the Messenger of Love, the flower is considered as the symbol of communication and messages. Therefore the flower iris in the language of flowers symbolizes eloquence. Based on their color, irises convey varied messages that can be gifted to convey many emotions. A purple iris symbolizes wisdom and compliments where as a blue iris symbolizes faith and hope. A yellow iris symbolizes passion while white iris symbolizes purity.
 
 
-just clone the application use : git clone 
+go to ur git Bash - cmd .. ---->>>
+
+just clone the application use : git clone https://github.com/pavan-tanniru/deploy-ml-model-flask.git
 
 drop star ⭐ for ur local system .. 
 
